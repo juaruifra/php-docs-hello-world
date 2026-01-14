@@ -1,8 +1,5 @@
 <?php
 
-echo "STORAGE PHP FUNCIONA";
-exit;
-
 require 'vendor/autoload.php';
 
 use MicrosoftAzure\Storage\Blob\BlobRestProxy;
